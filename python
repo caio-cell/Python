@@ -1,1 +1,27 @@
-Aulas de python ,materia dada no dia 
+Aulas de python ,materia do dia 12/08/2024
+
+print("hello world\n")
+print("primeiro programa")
+print("tenho liberdade para escrever meu codigo")
+
+n= 'mensagem'
+print(n)
+n=(25)
+print(n)
+n=3.1456
+print(n)
+
+n= 'mensagem'
+n= 2
+print(n + n)
+
+
+print("acesso ao sistema")
+login = input("Usuário")
+senha = input("Senha")
+print("Usuário: " + login + "senha:" + senha)
+print("login: %s, senha: %s" %(login, senha))
+
+v1 = int(input("valor1: "))
+v2 = int(input("valor2: "))
+print("A soma de %s com %s é igual a %s" %(v1,v2,v1+v2))
